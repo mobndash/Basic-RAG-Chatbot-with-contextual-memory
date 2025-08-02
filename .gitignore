@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.pyd
+
+# Virtual environments
+venv/
+env/
+rag_venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# FAISS (optional: if too big or private)
+my_faiss_vector_store/
+
+# OS/IDE Specific
+.DS_Store
+.vscode/
+*.log
+*.bak
+
+# Misc
+*.zip
+*.tar.gz
+*.egg-info/

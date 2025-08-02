@@ -1,0 +1,14 @@
+langchain
+langchain_community
+pypdf
+openai
+tiktoken
+rapidocr-onnxruntime
+ipykernel
+faiss-cpu
+dotenv
+fastapi
+pydantic
+streamlit
+uvicorn
+langchain-core
